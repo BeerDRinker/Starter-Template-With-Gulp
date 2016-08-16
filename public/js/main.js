@@ -1,0 +1,2 @@
+/* Coded by Paliy Rostyslav. e-mail: paliy1984@gmail.com. skype: ros.coprandos */
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJtYWluLmpzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qIENvZGVkIGJ5IFBhbGl5IFJvc3R5c2xhdi4gZS1tYWlsOiBwYWxpeTE5ODRAZ21haWwuY29tLiBza3lwZTogcm9zLmNvcHJhbmRvcyAqLyJdLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
